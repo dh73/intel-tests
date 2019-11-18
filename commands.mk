@@ -1,4 +1,4 @@
-YOSYS_PATH=$(YOSYS_HOME)
+YOSYS_PATH=/opt/eda/fpga/FOSS/yosys_altera
 YOSYS_BIN=$(YOSYS_PATH)/binaries/bin/yosys
 YOSYS_REF=$(YOSYS_PATH)/techlibs/common/simcells.v
 OBJ=\$@.log
